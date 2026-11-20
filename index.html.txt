@@ -1,0 +1,694 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>Senirama Kembang Kawat | Handmade Flower Bouquet</title>
+
+    <meta name="description" content="Senirama Kembang Kawat menghadirkan buket bunga handmade dari kawat bulu yang unik, cantik, dan penuh makna.">
+
+  
+
+    <!-- Google Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+
+    <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;500;600;700&family=Poppins:wght@300;400;500;600&display=swap" rel="stylesheet">
+
+    <!-- CSS -->
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+    <!-- ================= HEADER / NAVBAR ================= -->
+
+    <header class="header">
+        <nav class="navbar">
+
+            <a href="#home" class="logo">
+                <span>Senirama</span>
+                <small>KEMBANG KAWAT</small>
+            </a>
+
+            <ul class="nav-menu">
+                <li><a href="#home">Home</a></li>
+                <li><a href="#about">About Us</a></li>
+                <li><a href="#products">Collection</a></li>
+                <li><a href="#gallery">Gallery</a></li>
+                <li><a href="#contact">Contact</a></li>
+            </ul>
+
+            <a href="#products" class="nav-button">
+                Explore More
+            </a>
+
+            <button class="menu-toggle" aria-label="Buka menu navigasi">
+                ☰
+            </button>
+
+        </nav>
+    </header>
+
+
+    <!-- ================= HOME SECTION ================= -->
+
+    <section class="hero" id="home">
+
+        <div class="hero-content">
+
+            <span class="hero-subtitle">
+                HANDMADE WITH LOVE
+            </span>
+
+            <h1>
+                A Little Flower,<br>
+                <span>A Lot of Meaning.</span>
+            </h1>
+
+            <p>
+                Merangkai Keindahan, Mengabadikan Perasaan.
+                Hadirkan keindahan bunga dalam bentuk yang berbeda
+                melalui rangkaian bunga handmade dari kawat bulu
+                yang dibuat dengan penuh cinta dan kreativitas.
+            </p>
+
+            <div class="hero-buttons">
+
+                <a href="#products" class="btn-primary">
+                    Explore Collection
+                </a>
+
+                <a href="#about" class="btn-secondary">
+                    Discover More
+                </a>
+
+            </div>
+
+            <div class="hero-note">
+                <span>♡</span>
+                Every flower has its own story.
+            </div>
+
+        </div>
+
+        <div class="hero-image">
+
+            <img
+                src="images/hero-bouquet.jpg"
+                alt="Handmade flower bouquet Senirama Kembang Kawat"
+            >
+
+            <div class="hero-decoration">
+                Handmade with Love ♡
+            </div>
+
+        </div>
+
+    </section>
+
+
+    <!-- ================= BRAND HIGHLIGHT ================= -->
+
+    <section class="brand-highlight">
+
+        <div class="highlight-item">
+            <span>✿</span>
+            <p>Handmade Creation</p>
+        </div>
+
+        <div class="highlight-item">
+            <span>♡</span>
+            <p>Made with Love</p>
+        </div>
+
+        <div class="highlight-item">
+            <span>✧</span>
+            <p>Unique Design</p>
+        </div>
+
+        <div class="highlight-item">
+            <span>❀</span>
+            <p>Special Moments</p>
+        </div>
+
+    </section>
+
+
+    <!-- ================= ABOUT SECTION ================= -->
+
+    <section class="about section-padding" id="about">
+
+        <div class="about-image">
+
+            <img
+                src="images/sunflower-rose.jpg"
+                alt="Rangkaian bunga kawat bulu Senirama"
+            >
+
+        </div>
+
+        <div class="about-content">
+
+            <span class="section-subtitle">
+                OUR STORY
+            </span>
+
+            <h2>
+                More Than Just<br>
+                <span>A Flower Bouquet</span>
+            </h2>
+
+            <p>
+                Senirama Kembang Kawat hadir dari kecintaan terhadap keindahan bunga dan kreativitas dalam menciptakan sesuatu yang berbeda. Berawal dari ide sederhana untuk mengubah kawat bulu menjadi rangkaian bunga yang cantik, kami percaya bahwa keindahan tidak selalu harus berasal dari bunga asli.
+              
+            </p>
+
+            <p>
+                Setiap bunga dibuat dengan sentuhan tangan, ketelitian, dan kreativitas untuk menghasilkan karya yang unik dan penuh makna. Kami menghadirkan berbagai pilihan bunga dan buket yang dapat disesuaikan dengan warna, desain, serta momen spesial pelanggan.
+            </p>
+
+            <p>
+                Melalui setiap rangkaian bunga, kami ingin
+                menghadirkan hadiah unik yang dapat menjadi
+                kenangan indah dalam berbagai momen spesial.
+            </p>
+
+            <a href="#contact" class="text-link">
+                Get to Know Us →
+            </a>
+
+        </div>
+
+    </section>
+
+
+    <!-- ================= VALUE SECTION ================= -->
+
+    <section class="values section-padding">
+
+        <div class="section-heading">
+
+            <span class="section-subtitle">
+                WHY CHOOSE US
+            </span>
+
+            <h2>
+                Made Special, <span>Made for You</span>
+            </h2>
+
+            <p>
+                Setiap rangkaian memiliki keunikan dan cerita
+                tersendiri untuk orang-orang tersayang.
+            </p>
+
+        </div>
+
+        <div class="value-container">
+
+            <div class="value-card">
+                <div class="value-icon">✿</div>
+                <h3>Handmade Creation</h3>
+                <p>
+                    Setiap bunga dibuat secara handmade
+                    dengan kreativitas dan ketelitian.
+                </p>
+            </div>
+
+            <div class="value-card">
+                <div class="value-icon">♡</div>
+                <h3>Unique Design</h3>
+                <p>
+                    Desain bunga yang unik, cantik,
+                    dan berbeda dari bunga pada umumnya.
+                </p>
+            </div>
+
+            <div class="value-card">
+                <div class="value-icon">✧</div>
+                <h3>Personalized Gift</h3>
+                <p>
+                    Pilihan hadiah yang dapat disesuaikan
+                    untuk berbagai momen istimewa.
+                </p>
+            </div>
+
+        </div>
+
+    </section>
+
+
+    <!-- ================= PRODUCT SECTION ================= -->
+
+    <section class="products section-padding" id="products">
+
+        <div class="section-heading">
+
+            <span class="section-subtitle">
+                OUR COLLECTION
+            </span>
+
+            <h2>
+                Find Your <span>Perfect Bloom</span>
+            </h2>
+
+            <p>
+                Temukan rangkaian bunga handmade yang
+                sesuai dengan cerita dan momen spesialmu.
+            </p>
+
+        </div>
+
+
+        <!-- PRODUCT FILTER -->
+
+        < class="filter-container">
+
+            <button class="filter-btn active" data-filter="all">
+                All Products
+            </button>
+
+            <div class="collection-filters">
+
+    <button class="filter-btn active"
+        data-filter="single">
+        Single Flowers
+    </button>
+
+    <button class="filter-btn"
+        data-filter="graduation">
+        Graduation Bouquet
+    </button>
+
+    <button class="filter-btn"
+        data-filter="mixed">
+        Elegant Mixed Bouquet
+    </button>
+
+    <button class="filter-btn"
+        data-filter="signature">
+        Signature Senirama Bouquet
+    </button>
+
+</div>
+
+
+        <!-- PRODUCT LIST -->
+
+        <!-- < > -->
+          <div class="product-container">
+
+          
+            <!-- PRODUCT 1 -->
+
+            <div class="product-card" data-category="single-flower">
+
+                <div class="product-image">
+
+                    <img
+                        src="images/mawar-single.jpg"
+                        alt="Single Flowers"
+                    >
+
+                    <span class="product-label">
+                        Single Flower
+                    </span>
+
+                </div>
+
+                <div class="product-info">
+
+                    <span class="product-category">
+                        CUSTOM 
+                    </span>
+
+                    <h3>Single flowers</h3>
+
+                    <p>
+                        A simple yet beautiful handmade flower, featuring one stem of your choice. 
+                        Customize the flower type and color to match your personal style.
+                    </p>
+
+                    <div class="product-bottom">
+
+                        <span class="price">Start from Rp.30.000</span>
+
+                        <a href="https://wa.me/6288297039856?text=Halo%20Senirama,%20saya%20ingin%20memesan%20Single%20Rose."
+                           class="order-btn"
+                           target="_blank">
+                            Order Now →
+                        </a>
+
+                    </div>
+
+                </div>
+
+            </div>
+
+
+            <!-- PRODUCT 2 -->
+
+            <div class="product-card" data-category="Graduation Bouquet">
+
+                <div class="product-image">
+
+                    <img
+                        src="images/tulip-mini.jpg"
+                        alt="Graduation Bouquet"
+                    >
+
+                    <span class="product-label">
+                        Best Seller
+                    </span>
+
+                </div>
+
+                <div class="product-info">
+
+                    <span class="product-category">
+                        Custom
+                    </span>
+
+                    <h3>Graduation Edition</h3>
+
+                    <p>
+                        A Special graduation bouquet featuring 5-8 assorted flower steams,
+                        complemented by fresh green leaves and an adorable graduation doll.
+                    </p>
+
+                    <div class="product-bottom">
+
+                        <span class="price">Start from Rp.75.000</span>
+
+                        <a href="https://wa.me/6288297039856?text=Halo%20Senirama,%20saya%20ingin%20memesan%20Mini%20Tulip%20Bouquet."
+                           class="order-btn"
+                           target="_blank">
+                            Order Now →
+                        </a>
+
+                    </div>
+
+                </div>
+
+            </div>
+
+
+            <!-- PRODUCT 3 -->
+
+            <div class="product-card" data-category="Elegant Mixed Bouquet">
+
+                <div class="product-image">
+
+                    <img
+                        src="images/wisuda-mawar.jpg"
+                        alt="Elegant Mixed Bouquet"
+                    >
+
+                    <span class="product-label">
+                        Special Gift
+                    </span>
+
+                </div>
+
+                <div class="product-info">
+
+                    <span class="product-category">
+                        Mixed all 
+                    </span>
+
+                    <h3>Elegant Mixed Bouquet</h3>
+
+                    <p>
+                        A beautiful combination of handmade flowers,
+                        freejy customized with your favorite foower type and colors, featuring up to 12 stems.
+                    </p>
+
+                    <div class="product-bottom">
+
+                        <span class="price">Start from Rp.130.000</span>
+
+                        <a href="https://wa.me/6288297039856?text=Halo%20Senirama,%20saya%20ingin%20memesan%20Graduation%20Rose%20Bouquet."
+                           class="order-btn"
+                           target="_blank">
+                            Order Now →
+                        </a>
+
+                    </div>
+
+                </div>
+
+            </div>
+
+
+            <!-- PRODUCT 4 -->
+
+            <div class="product-card" data-category="Signature Senirama Bouquet">
+
+                <div class="product-image">
+
+                    <img
+                        src="images/sunflower-rose.jpg"
+                        alt="Signature Seniarama Edition"
+                    >
+
+                    <span class="product-label">
+                        Unique Design
+                    </span>
+
+                </div>
+
+                <div class="product-info">
+
+                    <span class="product-category">
+                        Custom
+                    </span>
+
+                    <h3>Signature Editoon</h3>
+
+                    <p>
+                        Our signature bouquet, featuring a vibrant arrangement of assorted handmade
+                        flowers in beautiful colors and unique combinations, inspirated by the charming Thumbelina bouquet.
+                    </p>
+
+                    <div class="product-bottom">
+
+                        <span class="price">Start from Rp.180.000</span>
+
+                        <a href="https://wa.me/6288297039856?text=Halo%20Senirama,%20saya%20ingin%20memesan%20Sunflower%20and%20Rose."
+                           class="order-btn"
+                           target="_blank">
+                            Order Now →
+                        </a>
+
+                    </div>
+
+                </div>
+
+            </div>
+
+        </div>
+
+        <div class="collection-note">
+            <p>
+                Have your own flower idea?
+                Let us create something special for you.
+            </p>
+
+            <a href="#contact" class="btn-primary">
+                Custom Your Bouquet
+            </a>
+        </div>
+
+    </section>
+
+
+    <!-- ================= GALLERY SECTION ================= -->
+
+    <section class="gallery section-padding" id="gallery">
+
+        <div class="section-heading">
+
+            <span class="section-subtitle">
+                OUR LITTLE GALLERY
+            </span>
+
+            <h2>
+                A Little Gallery <span>of Happiness</span>
+            </h2>
+
+            <p>
+                Setiap bunga memiliki cerita,
+                setiap buket menyimpan perasaan.
+            </p>
+
+        </div>
+
+        <div class="gallery-container">
+
+            <div class="gallery-item">
+                <img
+                    src="images/hero-bouquet.jpg"
+                    alt="Senirama flower bouquet"
+                >
+            </div>
+
+            <div class="gallery-item">
+                <img
+                    src="images/mawar-single.jpg"
+                    alt="Single rose"
+                >
+            </div>
+
+            <div class="gallery-item">
+                <img
+                    src="images/tulip-mini.jpg"
+                    alt="Mini tulip bouquet"
+                >
+            </div>
+
+            <div class="gallery-item">
+                <img
+                    src="images/wisuda-mawar.jpg"
+                    alt="Graduation bouquet"
+                >
+            </div>
+
+            <div class="gallery-item">
+                <img
+                    src="images/sunflower-rose.jpg"
+                    alt="Sunflower and rose bouquet"
+                >
+            </div>
+
+            <div class="gallery-item">
+                <img
+                    src="images/white-rose.jpg"
+                    alt="White rose bouquet"
+                >
+            </div>
+
+        </div>
+
+    </section>
+
+
+    <!-- ================= CONTACT SECTION ================= -->
+
+    <section class="contact section-padding" id="contact">
+
+        <div class="contact-content">
+
+            <span class="section-subtitle">
+                LET'S CONNECT
+            </span>
+
+            <h2>
+                Send Someone<br>
+                <span>A Little Happiness.</span>
+            </h2>
+
+            <p>
+                Temukan buket bunga yang tepat untuk
+                orang tersayang. Kami siap membantu
+                menghadirkan hadiah spesial untuk setiap
+                momen berharga.
+            </p>
+
+            <a href="https://wa.me/6288297039856?text=Halo%20Senirama,%20saya%20ingin%20bertanya%20tentang%20produk%20buket."
+               class="btn-primary"
+               target="_blank">
+                Order via WhatsApp
+            </a>
+
+        </div>
+
+        <div class="contact-info">
+
+            <div class="contact-item">
+                <span>♡</span>
+                <div>
+                    <h3>WhatsApp</h3>
+                    <p>Hubungi kami untuk pemesanan.</p>
+                </div>
+            </div>
+
+            <div class="contact-item">
+                <span>✿</span>
+                <div>
+                    <h3>Instagram</h3>
+                    <p>@senirama.kembangkawat</p>
+                </div>
+            </div>
+
+            <div class="contact-item">
+                <span>⌖</span>
+                <div>
+                    <h3>Location</h3>
+<p>Graha Raya, Bintaro Jaya, Tangerang Selatan.</p>
+                </div>
+            </div>
+
+            <div class="contact-item">
+                <span>◷</span>
+                <div>
+                    <h3>Operating Hours</h3>
+                    <p>Monday - Saturday, 09.00 - 17.00 WIB</p>
+                </div>
+            </div>
+
+        </div>
+
+    </section>
+
+
+    <!-- ================= FOOTER ================= -->
+
+    <footer class="footer">
+
+       <div class="footer-brand">
+
+    <a href="#home" class="footer-logo">
+        SENIRAMA KEMBANG KAWAT
+    </a>
+
+    <div class="footer-flower">
+        ✿ HANDMADE WITH LOVE ✿
+    </div>
+
+        Merangkai Keindahan, Mengabadikan Perasaan.
+
+</div> 
+
+            <div class="footer-links">
+
+                <a href="#home">Home</a>
+                <a href="#about">About</a>
+                <a href="#products">Collection</a>
+                <a href="#gallery">Gallery</a>
+                <a href="#contact">Contact</a>
+
+            </div>
+
+            <div class="footer-bottom">
+                <p>
+                    &copy; 2026 Senirama Kembang Kawat.
+                    All Rights Reserved.
+                </p>
+
+                <span>Made with ♡ and creativity.</span>
+            </div>
+
+        </div>
+
+    </footer>
+
+
+    <!-- JAVASCRIPT -->
+    <script src="script.js"></script>
+
+</body>
+</html>
+
+                    
+
